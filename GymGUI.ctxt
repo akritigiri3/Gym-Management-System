@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GymGUI
+comment1.params=
+comment1.target=GymGUI()
+comment1.text=\r\n\ Constructs\ the\ GymGUI\ frame,\ initializes\ the\ GUI\ components,\r\n\ sets\ up\ event\ listeners\ for\ all\ buttons,\ and\ configures\ the\ layout.\r\n\ This\ is\ the\ main\ user\ interface\ for\ managing\ gym\ members.\r\n
+comment2.params=
+comment2.target=boolean\ validateForm()
+comment2.text=\r\n\ Validates\ all\ form\ input\ fields\ including\ ID,\ phone\ number,\ email,\ and\ gender\ selection.\r\n\r\n\ @return\ true\ if\ all\ fields\ are\ valid,\ false\ otherwise.\r\n
+comment3.params=message
+comment3.target=void\ showError(java.lang.String)
+comment4.params=id
+comment4.target=boolean\ isDuplicateID(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String[]\ generateDays()
+comment6.params=
+comment6.target=java.lang.String[]\ generateMonths()
+comment7.params=
+comment7.target=java.lang.String[]\ generateYears()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
